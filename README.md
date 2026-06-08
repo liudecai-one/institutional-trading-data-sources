@@ -15,3 +15,6 @@ Real-time market data sources used by professional trading desks.
 - [Institutional Trading Guide](https://blog.quant-view.xyz/institutional-traders-see-market-moves.html)
 - [Bloomberg Alternatives](https://blog.quant-view.xyz/bloomberg-alternative.html)
 - [Trading Privacy](https://blog.quant-view.xyz/anonymous-trading-platform.html)
+
+## Community
+- [Telegram](https://t.me/GFIL_Trading) | [Discord](https://discord.gg/nPuta6Cr4)
